@@ -77,4 +77,4 @@ class HandleFlooder extends Flooder {
     }
 }
 window.HandleFlooder = (HandleFlooder);
-window.addEventListener('load', (HandleFlooder.prototype.setGUI));
+window.addEventListener('load', (HandleFlooder.prototype.setGUI) , false);
